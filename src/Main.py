@@ -7,7 +7,7 @@ import os
 import simpleaudio as sa
 from pydub import AudioSegment
 
-openai.api_key = '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'
+openai.api_key = ''
 
 
 def detectar_idioma(texto):
